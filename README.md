@@ -83,12 +83,3 @@ I am a master's student in Artificial Intelligence and Digital Science at the Fa
 
 </div>
 
----
-
-<div align="center">
-  
-*"Continuously learning and building innovative AI solutions"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
-
-</div>
